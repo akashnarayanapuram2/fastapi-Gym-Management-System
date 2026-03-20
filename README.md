@@ -47,7 +47,7 @@ project/
 ├── main.py             # Main FastAPI application
 ├── requirements.txt    # Dependencies
 └── README.md           # Project documentation
-
+|__Screenshots          
 ```
 
 ---
@@ -151,7 +151,7 @@ http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-(Add your Swagger screenshots here for submission)
+All API outputs are tested in Swagger UI and stored in the screenshots/ folder.
 
 ---
 
