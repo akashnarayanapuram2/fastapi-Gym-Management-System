@@ -44,9 +44,10 @@ It provides endpoints to manage gym members, plans, memberships, attendance, cla
 ```
 project/
 │
-├── main.py              # Main FastAPI application
+├── main.py             # Main FastAPI application
 ├── requirements.txt    # Dependencies
 └── README.md           # Project documentation
+
 ```
 
 ---
@@ -173,7 +174,7 @@ This project demonstrates a **complete backend system** for gym management using
 
 ## 👨‍💻 Author
 
-Name: Narayanapuram.Akash
-Project: FastAPI Application
-Internship: GenAI Internship
-Guidance under @Innomatics Research Lab
+Name: Narayanapuram.Akash                                                    
+Project: FastAPI Application                                                                       
+Internship: GenAI Internship                                                           
+Guidance under @Innomatics Research Lab                                       
