@@ -47,7 +47,7 @@ project/
 ├── main.py             # Main FastAPI application
 ├── requirements.txt    # Dependencies
 └── README.md           # Project documentation
-|__Screenshots          
+|__ Screenshots          
 ```
 
 ---
